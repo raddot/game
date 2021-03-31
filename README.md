@@ -1,2 +1,2 @@
 # game
-zero & cross game
+Zero & Cross game using simple matrix operation in CPP.
